@@ -24,8 +24,8 @@ allprojects {
     }
 
     artifactory {
-       // contextUrl = 'https://oss.jfrog.org'
-        contextUrl = 'http://10.0.0.168:8081/artifactory'
+       contextUrl = 'https://oss.jfrog.org'
+        //contextUrl = 'http://10.0.0.168:8081/artifactory'
     }
 }
 
